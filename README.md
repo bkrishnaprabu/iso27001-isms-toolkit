@@ -15,7 +15,7 @@ A **production-ready**, enterprise-grade ISO 27001:2022 ISMS implementation tool
 ```
 iso27001-isms-toolkit/
 ├── templates/
-│   ├── policies/           # 15+ ready-to-use ISMS policies
+│   ├── policies/           # Ready-to-use ISMS policies
 │   ├── procedures/         # Operational procedure templates
 │   ├── forms/              # Audit, risk, and review forms
 │   └── checklists/         # Gap analysis & audit checklists

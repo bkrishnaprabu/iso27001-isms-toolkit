@@ -6,7 +6,7 @@
 
 A **production-ready**, enterprise-grade ISO 27001:2022 ISMS implementation toolkit. Built from real-world experience delivering and maintaining ISO 27001 certification across multi-site, global enterprises.
 
-> ⚡ Used as the foundation for ISO 27001:2022 certification programmes across multiple UAE enterprises. Maintained audit readiness for 4 consecutive years in a 2,500+ user environment.
+> ⚡ Used as the foundation for ISO 27001:2022 certification programmes across multiple UAE enterprises. 
 
 ---
 
